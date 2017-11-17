@@ -60,7 +60,7 @@ Sigiste "classique":
  - Illustrator
  - souris 
  - bdd spatiales internes
- - ...
+ - ... 
  
  
 ---
@@ -127,3 +127,11 @@ Des cartes, mais pas que :
 
 ## à vos questions !
 </center>
+
+
+
+
+contact: 
+
+:bird: : @bebsgaz
+:email: : bertrand@getwemap.com
