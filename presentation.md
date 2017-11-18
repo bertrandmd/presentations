@@ -107,6 +107,16 @@ Des cartes, mais pas que :
 - 3D
 
 ---
+---
+<center>
+
+### Du code, pour quoi faire ?
+![50%](https://raw.githubusercontent.com/bertrandmd/presentations/master/zombies.gif)
+</center>
+
+
+
+---
 <center>
 
 ## Les projets open sources à suivre:
