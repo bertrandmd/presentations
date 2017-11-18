@@ -88,7 +88,7 @@ développeur carto:
 **outils** : 
 
  - librairies spatiales open-sources (GEOS, GDAL, OGR)
- - `console`, clavier & navigateur
+ - `console`, editeur de texte, clavier & navigateur
  - node, python, ...
  - github / open source 
  - open data, OSM
